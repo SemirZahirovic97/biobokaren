@@ -6,7 +6,7 @@
         "Dune: Part Two",
         "Oppenheimer",
         "Barbie",
-        "Mission: Impossible – Dead Reckoning"
+        "Mission: Impossible"
     };
 
         static string[] tider = {
